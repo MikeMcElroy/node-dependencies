@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Node and NPM dependencies requirements for your app",
   "main": "index.js",
-  "engines": { "node": ">=4.0.0", "npm": ">=3.0.0" },
-  "engineStrict": true,
-  "engine-strict": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
